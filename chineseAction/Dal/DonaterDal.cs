@@ -37,23 +37,24 @@ namespace chineseAction.Dal
                 _context.SaveChanges();
             }
         }
-        public void Update(int id, Donater newPresent)
+        public void Update( Donater newPresent)
         {
-            Donater? thisPresent = _context.Donaters.Find(id);
-            if (newPresent.FullName != null)
-                thisPresent.FullName = newPresent.FullName;
+            //Donater? thisPresent = _context.Donaters.Find(id);
+            //if (newPresent.FullName != null)
+            //    thisPresent.FullName = newPresent.FullName;
 
-            if (newPresent.Phone != null)
-                thisPresent.Phone = newPresent.Phone;
+            //if (newPresent.Phone != null)
+            //    thisPresent.Phone = newPresent.Phone;
 
-            if (newPresent.Mail != null)
-                thisPresent.Mail = newPresent.Mail;
+            //if (newPresent.Mail != null)
+            //    thisPresent.Mail = newPresent.Mail;
+            _context.Donaters.Update(newPresent);
             _context.SaveChanges();
         }
 
-        public List<Donater> GetByName(string name)
+        public Donater GetByName(string name)
         {
-            List<Donater>? donaters = _context.Donaters.Where(x => x.FullName == name).ToList();
+            Donater? donaters = _context.Donaters.FirstOrDefault(x => x.FullName == name);
             return donaters;
         }
 

@@ -36,9 +36,9 @@ namespace chineseAction.Controllers
 
         //post : api/Tasks/{updateTask}
         [HttpPut]
-        public IActionResult Update([FromQuery] int Id, string FullName, string? Phon, string? Mail)
+        public IActionResult Update(Donater d)
         {
-            _donaterService.Update(Id, FullName, Phon, Mail);
+            _donaterService.Update(d);
             return Ok();
         }
 
@@ -60,7 +60,7 @@ namespace chineseAction.Controllers
         }
 
         [HttpGet("byName/{name}")]
-        public ActionResult<IEnumerable<Donater>> GetByName(string name)
+        public ActionResult<Donater> GetByName(string name)
         {
             var donater = _donaterService.GetByName(name);
             return donater;
@@ -73,10 +73,10 @@ namespace chineseAction.Controllers
             return donater;
         }
 
-        [HttpGet("byPresent/{presentId}")]
-        public ActionResult<Donater> GetByPresent(int presentId)
+        [HttpGet("byPresent/{Id}")]
+        public ActionResult<Donater> GetByPresent(int Id)
         {
-            var donater = _donaterService.GetByPresent(presentId);
+            var donater = _donaterService.GetByPresent(Id);
             return donater;
         }
     }

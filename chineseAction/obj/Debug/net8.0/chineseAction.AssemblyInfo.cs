@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chineseAction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0634ee968ec6770cb31ba2c5432c7fa289b63b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("chineseAction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chineseAction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

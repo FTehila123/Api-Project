@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using chineseAction.Models;
+﻿using chineseAction.Models;
 using chineseAction.Services;
-using Microsoft.Build.Framework;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http.HttpResults;
+using Microsoft.AspNetCore.Mvc;
 
 namespace chineseAction.Controllers
 {
@@ -17,11 +11,14 @@ namespace chineseAction.Controllers
     public class PresentsController : ControllerBase
     {
         private readonly IPresentService _presentService;
+        private readonly ICustomerPresentService _customerPresentService;
 
-        public PresentsController(IPresentService presentService)
+        public PresentsController(IPresentService presentService, ICustomerPresentService customerPresentService)
         {
             _presentService = presentService;
+            _customerPresentService = customerPresentService;
         }
+
 
         [HttpGet]
         public ActionResult<IEnumerable<PresentMask>> GetTasks()
@@ -31,6 +28,7 @@ namespace chineseAction.Controllers
         }
 
         // get : api/Tasks/{id}
+        [Authorize(Roles = "User,Admin")]
         [HttpGet("{id}")]
         public ActionResult<PresentMask> GetById(int id)
         {
@@ -39,39 +37,48 @@ namespace chineseAction.Controllers
         }
 
         [Authorize(Roles = "Admin")]
-        [HttpPost]
-        public ActionResult<Present> Create(Present presentCreat)
+        [HttpDelete("byMany")]
+        public IActionResult deleteManyPresent([FromQuery] List<int> list)
         {
-            bool good = _presentService.Add(presentCreat);
-            if (good)
-                return Ok("new present created");
+            _presentService.DeleteManyPresent(list);
+            return Ok();
+        }
+
+        [Authorize(Roles = "Admin")]
+        [HttpPost]
+        public ActionResult<PresentMask> Create(PresentMask presentCreat)
+        {
+            PresentMask good = _presentService.Add(presentCreat);
+            if (good != null)
+                return Ok(good);
             return BadRequest("not exists");
         }
 
         [Authorize(Roles = "Admin")]
         [HttpPut]
-        public IActionResult Update([FromQuery] int Id, string Name, string Description, int? CategoryId, int? NumBuyers, string? Image, int Price, int DonaterId)
+        public IActionResult Update(PresentMask p)
         {
-            _presentService.Update(Id, Name, Description, CategoryId, NumBuyers, Image, Price, DonaterId);
+            _presentService.Update(p.Id, p.Name, p.Description, p.Category, p.NumBuyers, p.Image, p.Price, p.Donater);
             return Ok();
         }
+   
 
-        //post : api/Tasks/{id
         [Authorize(Roles = "Admin")]
         [HttpDelete("{id}")]
-        public ActionResult<Present> Delete(int id)
+        public IActionResult Delete(int id)
         {
             _presentService.Delete(id);
 
             return Ok();
         }
 
-        [HttpGet("byNum/{numBuyers}")]
-        public ActionResult<IEnumerable<Present>> GetByBuyers(int numBuyers)
-        {
-            var present = _presentService.GetByBuyers(numBuyers);
-            return present;
-        }
+
+        //[HttpGet("byNum/{numBuyers}")]
+        //public ActionResult<IEnumerable<Present>> GetByBuyers(int numBuyers)
+        //{
+        //    var present = _presentService.GetByBuyers(numBuyers);
+        //    return present;
+        //}
 
         [HttpGet("byName/{name}")]
         public ActionResult<IEnumerable<Present>> GetByName(string name)
@@ -80,10 +87,10 @@ namespace chineseAction.Controllers
             return present;
         }
 
-        [HttpGet("byDonater/{donaterId}")]
-        public ActionResult<IEnumerable<Present>> GetByDonaterId(int donaterId)
+        [HttpGet("byDonater{id}")]
+        public ActionResult<IEnumerable<PresentMask>> GetByDonaterId( int id)
         {
-           var presents= _presentService.GetByDonaterId(donaterId);
+           var presents= _presentService.GetByDonaterId(id);
 
             return presents;
         }

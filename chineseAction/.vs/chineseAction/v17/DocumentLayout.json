@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\customerpresentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\customerpresentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\winnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\winnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\presentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,136 +23,163 @@
       "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\presentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\ipresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\ipresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\presentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\presentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\ipresentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\ipresentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\donatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\donatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\customerpresentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\customerpresentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\icustomerpresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\icustomerpresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\customerpresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\customerpresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\icustomerpresentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\icustomerpresentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\customerpresentmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\customerpresentmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\customerpresent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\customerpresent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\migrations\\20241223124803_ffff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:migrations\\20241223124803_ffff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\presentmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\presentmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\donaterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\donaterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\idonaterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\idonaterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\icustomerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\donater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\donater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\donaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\donaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\idonaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\idonaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\present.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\present.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\winnerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\winnerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\projectdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\customerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\customerpresentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\customerpresentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\chineseaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:chineseaction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\customerpresentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\customerpresentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\winnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\winnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\controllers\\donatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:controllers\\donatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:middleware\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\iwinnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\iwinnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\winnermask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\winnermask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\logger\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\logger\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\donaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\donaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\customerpresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\customerpresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\logger\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\logger\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\winners.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:winners.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\present.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:present.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\donater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\donater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\iwinnerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\iwinnerdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\ipresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\ipresentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\dal\\idonaterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:dal\\idonaterdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\idonaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\idonaterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\327796942\\AppData\\Local\\SourceServer\\2b7638746fcfe5eacdab793fc30e3a678c900007df5370efcd6b74afaf322d8d\\chineseAction\\Dal\\PresentDal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\migrations\\20241223124803_ffff.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:migrations\\20241223124803_ffff.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\migrations\\20241223124803_ffff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:migrations\\20241223124803_ffff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|M:\\API\\project\\chineseAction\\logs - Copy.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logs - Copy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|m:\\api\\project\\chineseaction\\migrations\\20250121124608_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F54FFEB4-223A-4AC3-BCC7-D6B5B59071AF}|chineseAction.csproj|solutionrelative:migrations\\20250121124608_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,59 +189,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PresentService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\PresentService.cs",
-              "RelativeDocumentMoniker": "Services\\PresentService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\PresentService.cs",
-              "RelativeToolTip": "Services\\PresentService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwGEAAAA/AAAA",
+              "DocumentIndex": 22,
+              "Title": "WinnerMask.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\WinnerMask.cs",
+              "RelativeDocumentMoniker": "Models\\WinnerMask.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\WinnerMask.cs",
+              "RelativeToolTip": "Models\\WinnerMask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:31:11.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T15:55:29.544Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PresentDal.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\PresentDal.cs",
-              "RelativeDocumentMoniker": "Dal\\PresentDal.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\PresentDal.cs",
-              "RelativeToolTip": "Dal\\PresentDal.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAmwHIAAAAAAAAA",
+              "DocumentIndex": 18,
+              "Title": "WinnerController.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Controllers\\WinnerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WinnerController.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\WinnerController.cs",
+              "RelativeToolTip": "Controllers\\WinnerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:32:16.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:31:44.204Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CustomerPresentDal.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\CustomerPresentDal.cs",
-              "RelativeDocumentMoniker": "Dal\\CustomerPresentDal.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\CustomerPresentDal.cs",
-              "RelativeToolTip": "Dal\\CustomerPresentDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Title": "WinnerService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\WinnerService.cs",
+              "RelativeDocumentMoniker": "Services\\WinnerService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\WinnerService.cs",
+              "RelativeToolTip": "Services\\WinnerService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwE0AAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T13:50:03.726Z",
+              "WhenOpened": "2025-01-15T11:34:54.888Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DonaterController.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Controllers\\DonaterController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DonaterController.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\DonaterController.cs",
-              "RelativeToolTip": "Controllers\\DonaterController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "WinnerDal.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\WinnerDal.cs",
+              "RelativeDocumentMoniker": "Dal\\WinnerDal.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\WinnerDal.cs",
+              "RelativeToolTip": "Dal\\WinnerDal.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wCYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:29:35.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T11:35:22.355Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerDal.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\CustomerDal.cs",
+              "RelativeDocumentMoniker": "Dal\\CustomerDal.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\CustomerDal.cs",
+              "RelativeToolTip": "Dal\\CustomerDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:19:14.759Z"
             },
             {
               "$type": "Document",
@@ -224,49 +264,57 @@
               "RelativeDocumentMoniker": "Controllers\\PresentsController.cs",
               "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\PresentsController.cs",
               "RelativeToolTip": "Controllers\\PresentsController.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAuwGgAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:29:14.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T17:09:31.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IPresentDal.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\IPresentDal.cs",
-              "RelativeDocumentMoniker": "Dal\\IPresentDal.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\IPresentDal.cs",
-              "RelativeToolTip": "Dal\\IPresentDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "DocumentIndex": 5,
+              "Title": "PresentDal.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\PresentDal.cs",
+              "RelativeDocumentMoniker": "Dal\\PresentDal.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\PresentDal.cs",
+              "RelativeToolTip": "Dal\\PresentDal.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwFwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:31:43.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:09:25.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "AuthController.cs",
               "DocumentMoniker": "M:\\API\\project\\chineseAction\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
               "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAA6AAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAywDAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:02:26.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T11:54:44.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ICustomerPresentService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\ICustomerPresentService.cs",
-              "RelativeDocumentMoniker": "Services\\ICustomerPresentService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\ICustomerPresentService.cs",
-              "RelativeToolTip": "Services\\ICustomerPresentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAA4AAAA",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB8AAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:33:07.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T12:30:11.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "logs.txt",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\logs.txt",
+              "RelativeDocumentMoniker": "logs.txt",
+              "ToolTip": "M:\\API\\project\\chineseAction\\logs.txt",
+              "RelativeToolTip": "logs.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-19T10:46:45.677Z"
             },
             {
               "$type": "Document",
@@ -276,144 +324,26 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "M:\\API\\project\\chineseAction\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T15:30:39.468Z",
+              "WhenOpened": "2025-01-19T10:31:40.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CustomerPresentController.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Controllers\\CustomerPresentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerPresentController.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\CustomerPresentController.cs",
-              "RelativeToolTip": "Controllers\\CustomerPresentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABCAAAA",
+              "DocumentIndex": 3,
+              "Title": "PresentService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\PresentService.cs",
+              "RelativeDocumentMoniker": "Services\\PresentService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\PresentService.cs",
+              "RelativeToolTip": "Services\\PresentService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T13:27:39.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T10:41:16.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPresentService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\IPresentService.cs",
-              "RelativeDocumentMoniker": "Services\\IPresentService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\IPresentService.cs",
-              "RelativeToolTip": "Services\\IPresentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T17:30:58.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerPresentService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\CustomerPresentService.cs",
-              "RelativeDocumentMoniker": "Services\\CustomerPresentService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\CustomerPresentService.cs",
-              "RelativeToolTip": "Services\\CustomerPresentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T13:28:16.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ICustomerPresentDal.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\ICustomerPresentDal.cs",
-              "RelativeDocumentMoniker": "Dal\\ICustomerPresentDal.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\ICustomerPresentDal.cs",
-              "RelativeToolTip": "Dal\\ICustomerPresentDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:31:47.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CustomerPresent.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\CustomerPresent.cs",
-              "RelativeDocumentMoniker": "Models\\CustomerPresent.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\CustomerPresent.cs",
-              "RelativeToolTip": "Models\\CustomerPresent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:51:35.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustomerPresentMask.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\CustomerPresentMask.cs",
-              "RelativeDocumentMoniker": "Models\\CustomerPresentMask.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\CustomerPresentMask.cs",
-              "RelativeToolTip": "Models\\CustomerPresentMask.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T13:29:40.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20241223124803_ffff.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Migrations\\20241223124803_ffff.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241223124803_ffff.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Migrations\\20241223124803_ffff.cs",
-              "RelativeToolTip": "Migrations\\20241223124803_ffff.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:48:03.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\CustomerService.cs",
-              "RelativeToolTip": "Services\\CustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:10:29.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProjectDbContext.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\ProjectDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ProjectDbContext.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\ProjectDbContext.cs",
-              "RelativeToolTip": "Models\\ProjectDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T15:38:03.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:05:54.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 8,
               "Title": "Maneger.cs",
               "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Maneger.cs",
               "RelativeDocumentMoniker": "Models\\Maneger.cs",
@@ -421,233 +351,238 @@
               "RelativeToolTip": "Models\\Maneger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T18:49:14.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T18:49:14.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:51:04.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PresentMask.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\PresentMask.cs",
-              "RelativeDocumentMoniker": "Models\\PresentMask.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\PresentMask.cs",
-              "RelativeToolTip": "Models\\PresentMask.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T11:28:43.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CustomerDal.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\CustomerDal.cs",
-              "RelativeDocumentMoniker": "Dal\\CustomerDal.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\CustomerDal.cs",
-              "RelativeToolTip": "Dal\\CustomerDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:11:05.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DonaterDal.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\DonaterDal.cs",
-              "RelativeDocumentMoniker": "Dal\\DonaterDal.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\DonaterDal.cs",
-              "RelativeToolTip": "Dal\\DonaterDal.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAIwCsAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:03:31.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IDonaterDal.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\IDonaterDal.cs",
-              "RelativeDocumentMoniker": "Dal\\IDonaterDal.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\IDonaterDal.cs",
-              "RelativeToolTip": "Dal\\IDonaterDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:03:03.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Donater.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Donater.cs",
-              "RelativeDocumentMoniker": "Models\\Donater.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Donater.cs",
-              "RelativeToolTip": "Models\\Donater.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T15:01:02.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Category.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:49:40.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ICustomerDal.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\ICustomerDal.cs",
-              "RelativeDocumentMoniker": "Dal\\ICustomerDal.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\ICustomerDal.cs",
-              "RelativeToolTip": "Dal\\ICustomerDal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:13:21.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\ICustomerService.cs",
-              "RelativeToolTip": "Services\\ICustomerService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:20:24.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\JwtTokenService.cs",
-              "RelativeDocumentMoniker": "Services\\JwtTokenService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\JwtTokenService.cs",
-              "RelativeToolTip": "Services\\JwtTokenService.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAUwDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:03:51.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\LoginRequest.cs",
-              "RelativeToolTip": "Models\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:25:49.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DonaterService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\DonaterService.cs",
-              "RelativeDocumentMoniker": "Services\\DonaterService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\DonaterService.cs",
-              "RelativeToolTip": "Services\\DonaterService.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowDcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:04:50.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IDonaterService.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\IDonaterService.cs",
-              "RelativeDocumentMoniker": "Services\\IDonaterService.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\IDonaterService.cs",
-              "RelativeToolTip": "Services\\IDonaterService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T15:04:26.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "M:\\API\\project\\chineseAction\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-23T12:36:07.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Winner.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Winner.cs",
-              "RelativeDocumentMoniker": "Models\\Winner.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Winner.cs",
-              "RelativeToolTip": "Models\\Winner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T15:12:59.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 6,
               "Title": "Present.cs",
               "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Present.cs",
               "RelativeDocumentMoniker": "Models\\Present.cs",
               "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Present.cs",
               "RelativeToolTip": "Models\\Present.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowA0AAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:13:58.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T14:13:58.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Models\\Cart.cs",
-              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Cart.cs",
-              "RelativeToolTip": "Models\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABZAAAA",
+              "DocumentIndex": 16,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T14:13:38.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-19T12:26:42.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 10,
+              "Title": "ProjectDbContext.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\ProjectDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ProjectDbContext.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\ProjectDbContext.cs",
+              "RelativeToolTip": "Models\\ProjectDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:38:03.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250121124608_first.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Migrations\\20250121124608_first.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250121124608_first.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Migrations\\20250121124608_first.cs",
+              "RelativeToolTip": "Migrations\\20250121124608_first.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:46:08.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "M:\\API\\project\\chineseAction\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T12:45:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerPresentDal.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\CustomerPresentDal.cs",
+              "RelativeDocumentMoniker": "Dal\\CustomerPresentDal.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\CustomerPresentDal.cs",
+              "RelativeToolTip": "Dal\\CustomerPresentDal.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwFsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T13:50:03.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IWinnerService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\IWinnerService.cs",
+              "RelativeDocumentMoniker": "Services\\IWinnerService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\IWinnerService.cs",
+              "RelativeToolTip": "Services\\IWinnerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T16:02:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "chineseAction.csproj",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\chineseAction.csproj",
+              "RelativeDocumentMoniker": "chineseAction.csproj",
+              "ToolTip": "M:\\API\\project\\chineseAction\\chineseAction.csproj",
+              "RelativeToolTip": "chineseAction.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T14:18:04.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerPresentController.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Controllers\\CustomerPresentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerPresentController.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\CustomerPresentController.cs",
+              "RelativeToolTip": "Controllers\\CustomerPresentController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwCEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:07:36.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DonaterController.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Controllers\\DonaterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonaterController.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Controllers\\DonaterController.cs",
+              "RelativeToolTip": "Controllers\\DonaterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:09:24.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DonaterService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\DonaterService.cs",
+              "RelativeDocumentMoniker": "Services\\DonaterService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\DonaterService.cs",
+              "RelativeToolTip": "Services\\DonaterService.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAuwHoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:04:50.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerPresentService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\CustomerPresentService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerPresentService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\CustomerPresentService.cs",
+              "RelativeToolTip": "Services\\CustomerPresentService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEwAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:28:16.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Middleware\\Middleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\Middleware.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Middleware\\Middleware.cs",
+              "RelativeToolTip": "Middleware\\Middleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:52:53.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\Logger\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "Services\\Logger\\ILoggerService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\Logger\\ILoggerService.cs",
+              "RelativeToolTip": "Services\\Logger\\ILoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:29:52.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileLoggerService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\Logger\\FileLoggerService.cs",
+              "RelativeDocumentMoniker": "Services\\Logger\\FileLoggerService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\Logger\\FileLoggerService.cs",
+              "RelativeToolTip": "Services\\Logger\\FileLoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T10:23:10.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "logs - Copy.txt",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\logs - Copy.txt",
+              "RelativeDocumentMoniker": "logs - Copy.txt",
+              "ToolTip": "M:\\API\\project\\chineseAction\\logs - Copy.txt",
+              "RelativeToolTip": "logs - Copy.txt",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-19T11:00:19.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "present.txt",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\present.txt",
+              "RelativeDocumentMoniker": "present.txt",
+              "ToolTip": "M:\\API\\project\\chineseAction\\present.txt",
+              "RelativeToolTip": "present.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-19T11:01:59.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "winners.txt",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\winners.txt",
+              "RelativeDocumentMoniker": "winners.txt",
+              "ToolTip": "M:\\API\\project\\chineseAction\\winners.txt",
+              "RelativeToolTip": "winners.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-19T11:35:02.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Winner.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Winner.cs",
+              "RelativeDocumentMoniker": "Models\\Winner.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Winner.cs",
+              "RelativeToolTip": "Models\\Winner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:12:59.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "M:\\API\\project\\chineseAction\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -655,8 +590,148 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-17T15:50:35.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-17T15:50:35.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IWinnerDal.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\IWinnerDal.cs",
+              "RelativeDocumentMoniker": "Dal\\IWinnerDal.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\IWinnerDal.cs",
+              "RelativeToolTip": "Dal\\IWinnerDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:38:29.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Donater.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Donater.cs",
+              "RelativeDocumentMoniker": "Models\\Donater.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Donater.cs",
+              "RelativeToolTip": "Models\\Donater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:01:02.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:13:38.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:49:40.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IDonaterDal.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Dal\\IDonaterDal.cs",
+              "RelativeDocumentMoniker": "Dal\\IDonaterDal.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Dal\\IDonaterDal.cs",
+              "RelativeToolTip": "Dal\\IDonaterDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:03:03.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IPresentService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\IPresentService.cs",
+              "RelativeDocumentMoniker": "Services\\IPresentService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\IPresentService.cs",
+              "RelativeToolTip": "Services\\IPresentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:30:58.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAEBVwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T12:20:59.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IDonaterService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\IDonaterService.cs",
+              "RelativeDocumentMoniker": "Services\\IDonaterService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\IDonaterService.cs",
+              "RelativeToolTip": "Services\\IDonaterService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:04:26.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PresentDal.cs",
+              "DocumentMoniker": "C:\\Users\\327796942\\AppData\\Local\\SourceServer\\2b7638746fcfe5eacdab793fc30e3a678c900007df5370efcd6b74afaf322d8d\\chineseAction\\Dal\\PresentDal.cs",
+              "ToolTip": "C:\\Users\\327796942\\AppData\\Local\\SourceServer\\2b7638746fcfe5eacdab793fc30e3a678c900007df5370efcd6b74afaf322d8d\\chineseAction\\Dal\\PresentDal.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T09:02:10.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241223124803_ffff.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Migrations\\20241223124803_ffff.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241223124803_ffff.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Migrations\\20241223124803_ffff.cs",
+              "RelativeToolTip": "Migrations\\20241223124803_ffff.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAUwLcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:48:03.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241223124803_ffff.Designer.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Migrations\\20241223124803_ffff.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241223124803_ffff.Designer.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Migrations\\20241223124803_ffff.Designer.cs",
+              "RelativeToolTip": "Migrations\\20241223124803_ffff.Designer.cs",
+              "ViewState": "AQIAAPkAAAAAAAAAAAAUwAwBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:54:18.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "M:\\API\\project\\chineseAction\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\ICustomerService.cs",
+              "ToolTip": "M:\\API\\project\\chineseAction\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "Services\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:20:24.348Z"
             }
           ]
         }

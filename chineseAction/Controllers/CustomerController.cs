@@ -22,8 +22,9 @@ namespace chineseAction.Controllers
         {
             bool good = _customerService.Add(customer);
             if (good)
-                return Ok("new customer created");
+                return Ok(customer);
             return BadRequest("customer exists");
         }
+
     }
 }

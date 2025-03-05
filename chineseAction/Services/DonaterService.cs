@@ -1,54 +1,102 @@
 ﻿using chineseAction.Dal;
 using chineseAction.Models;
+using chineseAction.Services.Logger;
+using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages.Manage;
 
 namespace chineseAction.Services
 {
     public class DonaterService : IDonaterService
 
     {
+        private readonly ILoggerService _logger;
         private readonly IPresentDal _presentDal;
         private readonly IDonaterDal _donatorDal;
-        public DonaterService(IDonaterDal donatorDal, IPresentDal presentDal)
+        public DonaterService(IDonaterDal donatorDal, IPresentDal presentDal, ILoggerService logger)
         {
+            _logger = logger;
             _donatorDal = donatorDal;
             _presentDal = presentDal;
         }
         public bool Add(Donater newDonater)
         {
-            return _donatorDal.Add(newDonater);
+            try
+            {
+                return _donatorDal.Add(newDonater);
+            }
+            catch (Exception e)
+            {
+                _logger.Log($"failed to add donater {newDonater.Id},exception{e.Message}", "logs.txt");
+                return false;
+            }
         }
-        public void Update(int id, string? FullName, string? Phon, string? Mail)
+        public void Update(Donater d)
         {
-            Donater newDonater = new Donater();
-            newDonater.FullName = FullName;
-            newDonater.Phone = Phon;
-            newDonater.Mail = Mail;
-            _donatorDal.Update(id, newDonater);
+            try
+            {
+                Donater newDonater = new Donater();
+                _donatorDal.Update(d);
+            }
+            catch (Exception e)
+            {
+                _logger.Log($"failed to update donater {d.Id},exception{e.Message}", "logs.txt");
+            }
         }
 
 
         public List<Donater> Delete(int id)
         {
-            _donatorDal.Delete(id);
-            return new List<Donater>();
+            try
+            {
+                _donatorDal.Delete(id);
+                return new List<Donater>();
+            }
+            catch (Exception e)
+            {
+                _logger.Log($"failed to delete donater {id},exception{e.Message}", "logs.txt");
+                return null;
+            }
         }
 
         public List<Donater> GetDonater()
         {
-            var presents = _donatorDal.GetDonater();
-            return presents;
+            try
+            {
+                var presents = _donatorDal.GetDonater();
+                return presents;
+            }
+            catch (Exception e)
+            {
+                _logger.Log($"failed to get all the donaters,exception{e.Message}", "logs.txt");
+                return null;
+            }
         }
 
-        public List<Donater> GetByName(string name)
+        public Donater GetByName(string name)
         {
-            var donaters = _donatorDal.GetByName(name);
-            return donaters;
+            try
+            {
+                var donaters = _donatorDal.GetByName(name);
+                return donaters;
+            }
+            catch (Exception e)
+            {
+                _logger.Log($"failed to get the donater {name},exception{e.Message}", "logs.txt");
+                return null;
+            }
         }
 
         public List<Donater> GetByMail(string mail)
         {
-            var donaters = _donatorDal.GetByMail(mail);
-            return donaters;
+            try
+            {
+                var donaters = _donatorDal.GetByMail(mail);
+                return donaters;
+            }
+            catch (Exception e)
+            {
+                _logger.Log($"failed to get the donater by mail {mail},exception{e.Message}", "logs.txt");
+                return null;
+            }
         }
 
         public Donater GetByPresent(int presentId)
@@ -65,8 +113,16 @@ namespace chineseAction.Services
 
         public Donater GetById(int id)
         {
-            Donater donater = _donatorDal.GetById(id);
-            return donater;
+            try
+            {
+                Donater donater = _donatorDal.GetById(id);
+                return donater;
+            }
+            catch (Exception e)
+            {
+                _logger.Log($"failed to get the donater {id},exception{e.Message}", "logs.txt");
+                return null;
+            }
         }
     }
         

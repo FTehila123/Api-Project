@@ -1,0 +1,19 @@
+
+20/01/2025 12:15:48:failed to use the function lottery on the present:30,exceptionIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+21/01/2025 15:12:06:failed to add present 0,exceptionSequence contains no elements
+21/01/2025 15:12:46:failed to add present 0,exceptionSequence contains no elements
+21/01/2025 15:16:41:failed to add present 0,exceptionSequence contains no elements
+21/01/2025 15:23:00:failed to update present 1,exceptionSequence contains no elements
+21/01/2025 15:28:20:failed to add present 0,exceptionSequence contains no elements
+21/01/2025 16:51:19:failed to use the function lottery on the present:1,exceptionIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+21/01/2025 16:51:20:failed to use the function lottery on the present:1,exceptionIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+21/01/2025 16:51:21:failed to use the function lottery on the present:1,exceptionIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+21/01/2025 16:51:22:failed to use the function lottery on the present:1,exceptionIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+21/01/2025 16:51:22:failed to use the function lottery on the present:1,exceptionIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+21/01/2025 16:51:23:failed to use the function lottery on the present:2,exceptionIndex was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+21/01/2025 18:31:46:failed to delete present 14 for customer 3,exceptionSequence contains no elements
+21/01/2025 18:31:47:failed to delete present 14 for customer 3,exceptionSequence contains no elements
+21/01/2025 18:31:48:failed to delete present 13 for customer 3,exceptionSequence contains no elements
+21/01/2025 18:31:49:failed to delete present 13 for customer 3,exceptionSequence contains no elements
+21/01/2025 18:31:49:failed to delete present 13 for customer 3,exceptionSequence contains no elements
+21/01/2025 18:31:52:failed to delete present 13 for customer 3,exceptionSequence contains no elements

@@ -1,4 +1,5 @@
-﻿using Microsoft.IdentityModel.Tokens;
+﻿using chineseAction.Models;
+using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -36,12 +37,13 @@ namespace chineseAction.Services
                 return new JwtSecurityTokenHandler().WriteToken(token);
             }
 
-            public string GenerateJwtToken(string username, List<string> roles)
+            public string GenerateJwtToken(string username,int Id, List<string> roles)
             {
                 var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, username),
-                new Claim(ClaimTypes.NameIdentifier, Guid.NewGuid().ToString())
+                new Claim(ClaimTypes.NameIdentifier, Guid.NewGuid().ToString()),
+                new Claim("userId",Id.ToString())
             };
 
                 // Add roles as claims
@@ -60,5 +62,20 @@ namespace chineseAction.Services
 
                 return new JwtSecurityTokenHandler().WriteToken(token);
             }
-        }
+
+
+            public string ExtractUserIdFromToken(string token)
+            {
+                // דוגמת פענוח טוקן (JWT)
+                var handler = new JwtSecurityTokenHandler();
+                if (handler.CanReadToken(token))
+                {
+                    var jwtToken = handler.ReadJwtToken(token);
+                    var userIdClaim = jwtToken.Claims.FirstOrDefault(c => c.Type == "userId");
+                    return userIdClaim?.Value;
+                }
+
+                return null;
+            }
+    }
 }

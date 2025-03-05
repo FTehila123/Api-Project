@@ -8,6 +8,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
+using Microsoft.AspNetCore.Cors.Infrastructure;
+using chineseAction.Services.Logger;
+using chineseAction.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -25,17 +28,14 @@ builder.Services.AddScoped<ICustomerService, CustomerService>();
 builder.Services.AddScoped<ICustomerDal, CustomerDal>();
 builder.Services.AddScoped<ICustomerPresentService, CustomerPresentService>();
 builder.Services.AddScoped<ICustomerPresentDal, CustomerPresentDal>();
-//builder.Services.AddScoped<IUserRepository, UsersRepository>();
-//builder.Services.AddScoped<IUserService, UsersService>();
+builder.Services.AddScoped<IWinnerService, WinnerService>();
+builder.Services.AddScoped<IWinnerDal, WinnerDal>();
 
 //builder.Services.AddScoped(typeof(GenericRepository<>));
 
-//builder.Services.AddScoped<ILoggerService, ConsoleLoggerService>();
-
-//builder.Services.AddScoped<FileLoggerService>(provider =>
-//    new FileLoggerService("logs.txt")
-//);
-
+builder.Services.AddScoped<ILoggerService, FileLoggerService>(provider =>
+    new FileLoggerService("logs.txt")
+);
 
 
 //builder.Services.AddScoped<TasksApi.Services.Logger.LoggerFactory>();
@@ -102,6 +102,17 @@ builder.Services.AddAuthentication("Bearer")
         };
     });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy", builder =>
+    {
+        builder.WithOrigins("http://localhost:4200",
+                                                   "development web site")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
 
 // Configure request pipeline
@@ -130,9 +141,10 @@ if (app.Environment.IsDevelopment())
         c.RoutePrefix = string.Empty; // Serve Swagger UI at the app's root
     });
 }
-
+app.UseMiddleware<Middleware>();
+app.UseHttpsRedirection();
 app.UseRouting();
-
+app.UseCors("CorsPolicy");
 app.UseAuthentication(); // Enables authentication
 app.UseAuthorization();  // Enables authorization
 app.MapControllers(); // Maps attribute-routed controllers

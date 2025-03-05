@@ -275,3 +275,4 @@ M:\API\project\chineseAction\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scriptin
 M:\API\project\chineseAction\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 M:\API\project\chineseAction\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 M:\API\project\chineseAction\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\API\project\chineseAction\obj\Debug\net8.0\chineseAction.sourcelink.json
